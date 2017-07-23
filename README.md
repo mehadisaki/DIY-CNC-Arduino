@@ -1,2 +1,3 @@
 # DIY-CNC-router-by-Arduino
-DIY DIY CNC router or plotter by Arduino as my way
+Making a desktop CNC router or plotter by Arduino
+Only sharing and accumolat relevant information 
